@@ -14,6 +14,8 @@ In this project, we implement a Trie data structure in Java and provide the foll
 
 3. **Reverse Find**: Prints all strings that end with a given suffix in lexicographical order.
 
+<img width="619" alt="Screenshot 2023-11-06 at 23 03 25" src="https://github.com/sarparslan/Trie-Implementation/assets/96438389/857b5871-e572-47d7-96dc-f5f1a3fb4a21">
+
 ## Features
 
 - Implementation of a Trie data structure in Java.
